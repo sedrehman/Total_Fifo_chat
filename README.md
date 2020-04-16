@@ -1,4 +1,4 @@
-# Total_Fifo_chat
+# Total Fifo Group Chat (5 android emulators)
 
 This application implements  total ordering as well as FIFO, while handling app failures. 
 It gurantees -
