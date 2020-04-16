@@ -7,7 +7,7 @@ It gurantees -
   
 ONE EMULATOR WILL CRASH in the test showing that the other 4/5 running emulator still keeps consistant order of msgs without loss.
 
-#Requirements-
+# Requirements-
 - jdk 8
 - linux (tested on Ubuntu 18)
 - android studio
@@ -22,7 +22,7 @@ ONE EMULATOR WILL CRASH in the test showing that the other 4/5 running emulator 
 - Add <your Android SDK directory>/emulator to your $PATH so you can run Android’s emulator from anywhere.
 - python create_avd.py 5 <your Android SDK directory>
   
-#How to run-
+# How to run-
 Before you run the program, please make sure that you are running five AVDs. "python2 run_avd.py 5" will do it. Then run "python2 set_redir.py 10000", this will set up ports among the emulators
 
 Make sure that groupmessenger2-grading.linux  has appropriate permission. (use "sudo chmod +x groupmessenger2-grading.linux" otherwise"
