@@ -1,0 +1,4 @@
+#Tue Apr 14 19:40:18 EDT 2020
+base.0=/home/syedrehm/Documents/school/cse486/pa2b/GroupMessenger2/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
