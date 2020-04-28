@@ -17,7 +17,6 @@ ONE EMULATOR WILL CRASH in the test showing that the other 4/5 running emulator 
 - You need to have the Android SDK and Python 2.x (not 3.x; Python 3.x versions are not compatible with the scripts provided.) installed on your machine. If you have not installed these, please do it first and proceed to the next step.
 - Add <your Android SDK directory>/tools/bin to your $PATH so you can run Android’s development tools from anywhere.
         ◦ To find out what your Android SDK directory is, click File -> Settings (on Mac, Android Studio -> Preferences), go to Appearance & Behavior -> System Settings -> Android SDK. On the top right side, it will show your Android SDK location.
-        ◦ A good reference on how to change $PATH is here.
 - Add <your Android SDK directory>/platform-tools to your $PATH so you can run Android’s platform tools from anywhere.
 - Add <your Android SDK directory>/emulator to your $PATH so you can run Android’s emulator from anywhere.
 - python create_avd.py 5 <your Android SDK directory>
